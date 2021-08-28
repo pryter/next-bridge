@@ -15,7 +15,9 @@
   "author": "Peter Phongpak <peterphongpak@gmail.com>",
   "repository": "pryter/next-bridge",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "next": "11.1.0"
+  },
   "devDependencies": {
     "@types/node": "^16.6.2",
     "eslint": "7.32.0",
